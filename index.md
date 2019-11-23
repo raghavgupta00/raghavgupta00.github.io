@@ -42,7 +42,8 @@ keywords:
   </td>
 </tr>
 </table>
-
+-->
+<!--
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
