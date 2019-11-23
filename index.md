@@ -14,7 +14,9 @@ keywords:
       </ul>
   </div>
 </div>
+
 <!--
+
 <table class="wide">
 <tr>
   <td class="left">
@@ -42,8 +44,7 @@ keywords:
   </td>
 </tr>
 </table>
--->
-<!--
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -51,4 +52,5 @@ keywords:
       </ul>
   </div>
 </div>
+
 -->
