@@ -15,6 +15,7 @@ keywords:
   </div>
 </div>
 
+<!--
 <table class="wide">
 <tr>
   <td class="left">
@@ -50,3 +51,4 @@ keywords:
       </ul>
   </div>
 </div>
+-->
