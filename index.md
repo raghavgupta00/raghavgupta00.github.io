@@ -8,7 +8,7 @@ keywords:
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/Raghav Gupta Resume.pdf">Resume</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Raghav Gupta resume.pdf">Resume</a></li>
           <li><a href="https://github.com/raghavgupta00">GitHub</a></li>
           <li><a href="https://www.linkedin.com/in/raghav-gupta-25b613172/">LinkedIn</a></li>
       </ul>
